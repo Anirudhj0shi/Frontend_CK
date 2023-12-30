@@ -1,6 +1,6 @@
 import  React, { useState } from 'react';
 import DefaultNavbar from './Components/DefaultNavbar';
-import AddContact from './Components/addContact';
+import AddContact from './Components/AddContact';
 import GetContact from './Components/GetContact';
 import { BrowserRouter as Router,Routes,Route } from 'react-router-dom';
 
